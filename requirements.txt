@@ -1,0 +1,5 @@
+robotframework==3.1.2
+Appium-Python-Client==0.46
+pytest==5.0.1
+allure-robotframework==2.7.1
+robotframework-allurereport==1.1.1

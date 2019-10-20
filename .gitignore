@@ -1,0 +1,7 @@
+venv
+output
+log.*
+output.*
+report.*
+.idea
+**/*pycache*
